@@ -1,0 +1,19 @@
+Content
+"| Hazard Item                            | Exists (Yes/No/Cannot determine) | Location (if applicable)           |
+|----------------------------------------|----------------------------------|------------------------------------|
+| Low branches or unstable tree limbs    | No                               |                                    |
+| Thorny bushes or plants                | No                               |                                    |
+| Exposed tree roots                     | No                               |                                    |
+| Animal feces                           | Cannot determine                 |                                    |
+| Sharp corners                          | Yes                              | Playground equipment               |
+| Poisonous indoor and outdoor plants    | No                               |                                    |
+| All Equipment other than child safe toys | Yes                            | Playground equipment (if not certified safe)|
+| All supplies other than child safe toys | No                              |                                    |
+| Hose                                   | No                               |                                    |
+| Towels                                 | No                               |                                    |
+| Broken Fence                           | No                               |                                    |
+| Insufficient mulch near toy landing area | Cannot determine                |                                    |
+| Ropes or leashes                       | No                               |                                    |
+| Tripping hazards                       | Yes                              | Curved path and edges of play areas|
+
+Please note that the ability to determine some hazards, like the safety certifications for playground equipment or the sufficiency of mulch, is limited through a photo alone without physical inspection or additional context."
